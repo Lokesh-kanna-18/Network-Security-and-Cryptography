@@ -21,6 +21,7 @@ AES algorithm. Till date is not any evidence to crake this algorithm. AES has th
 deal with three different key sizes such as AES 128, 192 and 256 bit and each of these 
 ciphers has 128-bit block size. In this project we will be using AES in CBC mode with 256 
 bits.
+
 CBC (Cipher Blocker Chaining) is an advanced form of block cipher encryption. With CBC 
 mode encryption, each ciphertext block is dependent on all plaintext blocks processed up to 
 that point. This adds an extra level of complexity to the encrypted data.
